@@ -1,2 +1,2 @@
 alpha
-blueStone
+greenStone
