@@ -1,2 +1,4 @@
-I love GIT and GitHub
-But it's hard to choose between GitHub and GitLab
+I love GIT
+
+
+This Version Control tool is really powerful.
